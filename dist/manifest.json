@@ -1,0 +1,11 @@
+{
+  "id": "speed-reader",
+  "name": "Speed Reader",
+  "version": "0.1.1",
+  "minAppVersion": "0.15.0",
+  "description": "RSVP-based book speed reader for Obsidian",
+  "author": "Adam-Adams",
+  "authorUrl": "https://github.com/Adam-Adams",
+  "main": "main.js",
+  "isDesktopOnly": true
+}
