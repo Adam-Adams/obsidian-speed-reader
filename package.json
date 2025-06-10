@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "tsc && cp src/manifest.json dist/",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "mammoth": "^1.9.1",
+    "pdfjs-dist": "^5.3.31"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "obsidian": "^1.8.7",
+    "typescript": "^5.3.3"
+  }
+}
